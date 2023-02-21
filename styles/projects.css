@@ -18,8 +18,10 @@ h2 {
 		color: #181818;
 		margin: 0;
 	}
+}
 
+@media (prefers-color-scheme: dark) {
 	h2 {
-		color: white;
+		color: #fff;
 	}
 }
